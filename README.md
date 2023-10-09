@@ -1,1 +1,2 @@
-There is my CV.
+This is a CV repository.
+:)
